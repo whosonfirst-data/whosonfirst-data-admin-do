@@ -56,7 +56,7 @@
         "wk:page":"Hato_del_Yaque"
     },
     "wof:country":"DO",
-    "wof:geomhash":"2a7a3f566efcb0596d83edc4bdafd2ff",
+    "wof:geomhash":"1cb889787b3fe225eb1d10a22589dd2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,5 +82,5 @@
     -70.76666999999998,
     19.46667
 ],
-  "geometry": {"coordinates":[-70.76666999999998,19.46667],"type":"Point"}
+  "geometry": {"coordinates":[-70.76667,19.46667],"type":"Point"}
 }

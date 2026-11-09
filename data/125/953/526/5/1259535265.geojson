@@ -48,7 +48,7 @@
         "wk:page":"La_Zurza"
     },
     "wof:country":"DO",
-    "wof:geomhash":"991b1a87481cb8db90fe2c4674f1abf1",
+    "wof:geomhash":"627f8d7b8548601158b4132cb7f12cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -70.01083,
     18.51232000000001
 ],
-  "geometry": {"coordinates":[-70.01083,18.51232000000001],"type":"Point"}
+  "geometry": {"coordinates":[-70.01083,18.51232],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "gn:id":3500639
     },
     "wof:country":"DO",
-    "wof:geomhash":"61c1a89378e55e4fe10e84e0373a991e",
+    "wof:geomhash":"d1a9968b81ff6491919b7d188b8607c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,5 +94,5 @@
     -70.73501999999998,
     19.39921
 ],
-  "geometry": {"coordinates":[-70.73501999999998,19.39921],"type":"Point"}
+  "geometry": {"coordinates":[-70.73502,19.39921],"type":"Point"}
 }

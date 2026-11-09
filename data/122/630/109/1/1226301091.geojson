@@ -68,7 +68,7 @@
         "wk:page":"El_Cercado"
     },
     "wof:country":"DO",
-    "wof:geomhash":"4fd1090cf7f2582379921e82df46fbac",
+    "wof:geomhash":"21d9487c2be030ef293a2380faee0e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,5 +94,5 @@
     -71.52233000000003,
     18.72983
 ],
-  "geometry": {"coordinates":[-71.52233000000003,18.72983],"type":"Point"}
+  "geometry": {"coordinates":[-71.52233,18.72983],"type":"Point"}
 }

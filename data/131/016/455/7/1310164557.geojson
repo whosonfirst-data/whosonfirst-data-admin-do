@@ -63,7 +63,7 @@
         "wk:page":"La_Mata%2C_Dominican_Republic"
     },
     "wof:country":"DO",
-    "wof:geomhash":"b788b35172931363318f686d6250f8f4",
+    "wof:geomhash":"873891d0bf2d7e862b000bb151701b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,5 +89,5 @@
     -70.16705999999999,
     19.09916
 ],
-  "geometry": {"coordinates":[-70.16705999999999,19.09916],"type":"Point"}
+  "geometry": {"coordinates":[-70.16706,19.09916],"type":"Point"}
 }

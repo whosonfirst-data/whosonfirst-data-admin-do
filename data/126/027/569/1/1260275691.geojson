@@ -45,7 +45,7 @@
         "wk:page":"Loma_de_La_Joya"
     },
     "wof:country":"DO",
-    "wof:geomhash":"251104e3e6ddcbda283e083e6ee4123a",
+    "wof:geomhash":"c20b892529c3f1c53f7b932e0b8f6c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -70.28161999999999,
     19.37486
 ],
-  "geometry": {"coordinates":[-70.28161999999999,19.37486],"type":"Point"}
+  "geometry": {"coordinates":[-70.28162,19.37486],"type":"Point"}
 }

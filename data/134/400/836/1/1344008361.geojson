@@ -55,7 +55,7 @@
         "wk:page":"Tireo"
     },
     "wof:country":"DO",
-    "wof:geomhash":"79ea061184cbec133ba0da3a81d4989e",
+    "wof:geomhash":"7f5824a69e666d051bfb2ea4eb9ae482",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,5 +81,5 @@
     -70.68448000000002,
     18.9292
 ],
-  "geometry": {"coordinates":[-70.68448000000002,18.9292],"type":"Point"}
+  "geometry": {"coordinates":[-70.68448,18.9292],"type":"Point"}
 }

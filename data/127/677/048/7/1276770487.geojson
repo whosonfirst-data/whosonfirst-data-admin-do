@@ -45,7 +45,7 @@
         "wk:page":"Los_Patos%2C_Barahona"
     },
     "wof:country":"DO",
-    "wof:geomhash":"bcf6d405110bded4afdde12dc1f2c29d",
+    "wof:geomhash":"0731ae983523ee2fb2f103c0dee99d23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -71.18493000000002,
     17.95619
 ],
-  "geometry": {"coordinates":[-71.18493000000002,17.95619],"type":"Point"}
+  "geometry": {"coordinates":[-71.18493,17.95619],"type":"Point"}
 }

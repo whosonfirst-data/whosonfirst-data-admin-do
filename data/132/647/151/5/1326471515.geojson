@@ -50,7 +50,7 @@
         "wk:page":"Los_Peralejos"
     },
     "wof:country":"DO",
-    "wof:geomhash":"2c7976c744b1f21c57a3886c86a26ae9",
+    "wof:geomhash":"ee02ad74ebe1a8dc8742a3f5bc9b00dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -69.99446999999999,
     18.50665
 ],
-  "geometry": {"coordinates":[-69.99446999999999,18.50665],"type":"Point"}
+  "geometry": {"coordinates":[-69.99447,18.50665],"type":"Point"}
 }
