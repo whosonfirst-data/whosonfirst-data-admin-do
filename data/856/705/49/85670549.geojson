@@ -206,9 +206,6 @@
     "name:war_x_preferred":[
         "San Juan"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u80e1\u5b89\u6cb3"
-    ],
     "name:zho_min_nan_x_preferred":[
         "San Juan S\u00e9ng"
     ],
@@ -344,7 +341,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1695884896,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Juan",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

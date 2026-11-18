@@ -89,12 +89,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Cuanza"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e7f\u8428\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5ee3\u85a9\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -118,7 +112,7 @@
         }
     ],
     "wof:id":1344106127,
-    "wof:lastmodified":1636501559,
+    "wof:lastmodified":1794999722,
     "wof:name":"Cuanza",
     "wof:parent_id":890429183,
     "wof:placetype":"locality",

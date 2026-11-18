@@ -179,12 +179,6 @@
     "name:war_x_preferred":[
         "Miranda"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7c73\u5170\u8fbe\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7c73\u862d\u9054\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u5170\u8fbe"
     ],
@@ -211,7 +205,7 @@
         }
     ],
     "wof:id":1193195903,
-    "wof:lastmodified":1636501578,
+    "wof:lastmodified":1794999722,
     "wof:name":"Miranda",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",

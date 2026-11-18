@@ -198,9 +198,6 @@
     "name:war_x_preferred":[
         "Santiago de los Caballeros"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u5730\u4e9a\u54e5\u6cb3"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Santiago S\u00e9ng"
     ],
@@ -337,7 +334,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1695884896,
+    "wof:lastmodified":1794999722,
     "wof:name":"Santiago",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
